@@ -1,5 +1,7 @@
 ## Automating Exhibition Catalogue Creation - A Guide
 
+Read online here: [web](https://nfdi4culture.github.io/automating-exhibition-catalogue-creation-guide/)
+
 2023-03-28 v1.1
 
 Prototype series: Baroque TOC
