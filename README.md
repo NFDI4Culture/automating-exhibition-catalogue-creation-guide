@@ -1,8 +1,6 @@
-## Baroque AI - Programme Guide
+## Automating Exhibition Catalogue Creation - A Guide
 
-2023-03-17 v1.0
-
-A prototype publication of a fictional 'exhibition catalogue' based on a Wikidata based collection of seventeenth century painting from the Bavarian State Painting Collections. The prototype shows how with a compuational publishing pipeline different distributed linked open data (LOD) sources can be brough together in a multi-format computational publication — allowing for asynchronous collaborative working. Distributed LOD sources include: Wikidata/base, Nextcloud, Thoth, Semantic Kompakkt, TIB AV Portal, and more.
+2023-03-28 v1.1
 
 Prototype series: Baroque TOC
 
@@ -10,7 +8,7 @@ Coordinated by Simon Worthington - NFDI4Culture @Open Science Lab, TIB, Hannover
 
 March-April 2023
 
-<img src="cover/cover-small.jpg" alt="Baroque AI">
+<img src="cover/cover.jpg" alt="Baroque TOC">
 
 Venus und Cupido, Heinrich Bollandt, between circa 1620 and circa 1630. https://commons.wikimedia.org/wiki/File:Heinrich_Bollandt_-_Venus_und_Cupido.jpg This work is in the public domain.
 
